@@ -1,0 +1,6 @@
+[submodule "fuzzbench"]
+	path = fuzzbench
+	url = https://github.com/rub-SoftSec/StorFuzz-fuzzbench.git
+[submodule "LibAFL"]
+	path = LibAFL
+	url = https://github.com/rub-SoftSec/StorFuzz-LibAFL.git
