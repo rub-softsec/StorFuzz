@@ -24,11 +24,11 @@
 
 ## Source Code
 
-StorFuzz is based on LibAFL revision [bb579e6](https://github.com/AFLplusplus/LibAFL/commit/bb579e624e907b6488f019a6f0bb0634aa0f81da) (v0.13.1), the source code along with usage instructions can be found in [./LibAFL](./LibAFL/).
+StorFuzz is based on LibAFL revision [bb579e6](https://github.com/AFLplusplus/LibAFL/commit/bb579e624e907b6488f019a6f0bb0634aa0f81da) (v0.13.1), the source code along with usage instructions can be found in [rub-SoftSec/StorFuzz-LibAFL](https://github.com/rub-SoftSec/StorFuzz-LibAFL).
 
 ## FuzzBench
 
-We include all fuzzers and configurations used in our evaluation as FuzzBench fuzzers: [./fuzzbench](./fuzzbench/)
+We include all fuzzers and configurations used in our evaluation as FuzzBench fuzzers: [rub-SoftSec/StorFuzz-FuzzBench](https://github.com/rub-SoftSec/StorFuzz-FuzzBench)
 
 The repository includes information on how to replicate the experiments presented in the paper.
 
