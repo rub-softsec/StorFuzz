@@ -1,8 +1,8 @@
 # Transferring the Diversity: WingFuzz
 Median of 10 trials starting from the corpus saturated by both LibAFL and libFuzzer, plots include 95% confidence interval.
 
- - StorFuzz/LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #d62728;border:1px solid #000;"></span>
- - WingFuzz/libFuzzer <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #ff7f0e;border:1px solid #000;"></span>
+ - StorFuzz/LibAFL ![#d62728](../.assets/d62728.png)
+ - WingFuzz/libFuzzer ![#ff7f0e](../.assets/ff7f0e.png)
 
 
 ## bloaty_fuzz_target

@@ -1,10 +1,10 @@
 # Transferring the Diversity: LibAFL
 Median of 10 trials starting from the saturated corpus, plots include 95% confidence interval. The restarting/switching configurations restarted/switched at times indicated by the grey vertical lines. 
 
- - Continous LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #98df8a;border:1px solid #000;"></span>
- - Restarting LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #979797;border:1px solid #000;"></span>
- - StorFuzz / LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #d62728;border:1px solid #000;"></span>
- - DDFuzz / LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #1f77b4;border:1px solid #000;"></span>
+ - Continous LibAFL ![#98df8a](../.assets/98df8a.png)
+ - Restarting LibAFL ![#979797](../.assets/979797.png)
+ - StorFuzz / LibAFL ![#d62728](../.assets/d62728.png)
+ - DDFuzz / LibAFL ![#1f77b4](../.assets/1f77b4.png)
 
 
 ## bloaty_fuzz_target

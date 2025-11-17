@@ -5,10 +5,10 @@ The combined coverage of both libFuzzer and LibAFL is shown dashed. After the ve
 
 In some cases the coverage dips below the initial coverage from the seed set. This happens as both StorFuzz and WingFuzz discard parts of the seed set, which are identical to their coverage metrics, but not identical to the metric employed by llvm-cov. We believe this to be the result of differences in compiler optimizations.
 
- - LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #98df8a;border:1px solid #000;"></span>
- - libFuzzer <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #ff9896;border:1px solid #000;"></span>
- - StorFuzz/LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #d62728;border:1px solid #000;"></span>
- - WingFuzz/libFuzzer <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #ff7f0e;border:1px solid #000;"></span>
+ - LibAFL ![#98df8a](../.assets/98df8a.png)
+ - libFuzzer ![#ff9896](../.assets/ff9896.png)
+ - StorFuzz/LibAFL ![#d62728](../.assets/d62728.png)
+ - WingFuzz/libFuzzer ![#ff7f0e](../.assets/ff7f0e.png)
 
 
 ## bloaty_fuzz_target

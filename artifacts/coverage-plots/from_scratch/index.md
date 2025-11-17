@@ -3,9 +3,9 @@ Median of 8 trials starting from the corpus included in FuzzBench, plots include
 
 We include this experiment for completeness here. It is not part of the main paper, because this is not the scenario StorFuzz has been designed for.
 
- - StorFuzz <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #d62728;border:1px solid #000;"></span>
- - LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #98df8a;border:1px solid #000;"></span>
- - WingFuzz <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #ff7f0e;border:1px solid #000;"></span>
+ - StorFuzz ![#d62728](../.assets/d62728.png)
+ - LibAFL ![#98df8a](../.assets/98df8a.png)
+ - WingFuzz ![#ff7f0e](../.assets/ff7f0e.png)
 
 
 ## bloaty_fuzz_target

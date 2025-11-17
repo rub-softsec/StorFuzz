@@ -2,15 +2,15 @@
 Median of 10 trials starting from the saturated corpus, plots include 95% confidence interval.
 
 
- - StorFuzz default configuration<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #d62728;border:1px solid #000;"></span>
- - No limit on stores per BB<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #7f7f7f;border:1px solid #000;"></span>
- - At most 1 store per BB<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #9edae5;border:1px solid #000;"></span>
- - Up to 5 stores per BB<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #aec7e8;border:1px solid #000;"></span>
- - Up to 20 stores per BB<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #dbdb8d;border:1px solid #000;"></span>
- - Instrumenting copies from memory to memory<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #8c564b;border:1px solid #000;"></span>
- - Reduction to 4 bit<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #c49c94;border:1px solid #000;"></span>
- - Reduction to 12 bit<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #2ca02c;border:1px solid #000;"></span>
- - Reduction to 16 bit<span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #c5b0d5;border:1px solid #000;"></span>
+ - StorFuzz default configuration ![#d62728](../.assets/d62728.png)
+ - No limit on stores per BB ![#7f7f7f](../.assets/7f7f7f.png)
+ - At most 1 store per BB ![#9edae5](../.assets/9edae5.png)
+ - Up to 5 stores per BB ![#aec7e8](../.assets/aec7e8.png)
+ - Up to 20 stores per BB ![#dbdb8d](../.assets/dbdb8d.png)
+ - Instrumenting copies from memory to memory ![#8c564b](../.assets/8c564b.png)
+ - Reduction to 4 bit ![#c49c94](../.assets/c49c94.png)
+ - Reduction to 12 bit ![#2ca02c](../.assets/2ca02c.png)
+ - Reduction to 16 bit ![#c5b0d5](../.assets/c5b0d5.png)
 
 
 ## bloaty_fuzz_target

@@ -1,9 +1,9 @@
 # Breaking out of the Plateau
 Median of 10 trials starting from the saturated corpus, plots include 95% confidence interval.
 
- - LibAFL <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #979797;border:1px solid #000;"></span>
- - StorFuzz <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #d62728;border:1px solid #000;"></span>
- - DDFuzz <span style="display: inline-block;width: 1em;height: 1em;border-radius: 50%;background-color: #1f77b4;border:1px solid #000;"></span>
+ - LibAFL ![#979797](../.assets/979797.png)
+ - StorFuzz ![#d62728](../.assets/d62728.png)
+ - DDFuzz ![#1f77b4](../.assets/1f77b4.png)
 
 
 ## bloaty_fuzz_target
