@@ -63,7 +63,7 @@ uint16_t value_reduction_16bits(uint64_t v) {
 ```
 
 ## Additional Data
-The following additional tables can be found in [tables.pdf](./artifacts/tables/tables.pdf):
+The following additional tables can be found in [tables.pdf](./artifacts/tables.pdf):
 
 - Corpus sizes of the seed corpus vs. the diversified corpora. *Assessing the Diversity*
 - Coverage at different times for median trial starting from the saturated corpus. *Transferring the Diversity: LibAFL*
