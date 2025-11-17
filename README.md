@@ -74,12 +74,12 @@ The following additional tables can be found in [tables.pdf](./artifacts/tables/
 ### Additional Coverage Over Time Plots
 Here are code coverage over time plots for all FuzzBench benchmarks:
 
-- [Getting to the Plateau](./artifacts/coverage-plots/getting_to_the_plateau/index.md)
-- [Breaking out of the Plateau](./artifacts/coverage-plots/breaking_out_of_the_plateau/index.md)
-- [Transferring the Diversity: LibAFL](./artifacts/coverage-plots/transferring_the_diversity-libafl/index.md)
-- [Transferring the Diversity: WingFuzz](./artifacts/coverage-plots/transferring_the_diversity-wingfuzz/index.md)
-- [Transferring the Diversity: WingFuzz (plotted with saturation period)](./artifacts/coverage-plots/transferring_the_diversity-wingfuzz_with_saturation_period/index.md)
-- [Ablation Study](./artifacts/coverage-plots/ablation_study/index.md)
+- [4.3 &ndash; Getting to the Plateau](./artifacts/coverage-plots/getting_to_the_plateau/index.md)
+- [4.4 &ndash; Breaking out of the Plateau](./artifacts/coverage-plots/breaking_out_of_the_plateau/index.md)
+- [4.6 &ndash; Transferring the Diversity: LibAFL](./artifacts/coverage-plots/transferring_the_diversity-libafl/index.md)
+- [4.7 &ndash; Transferring the Diversity: WingFuzz](./artifacts/coverage-plots/transferring_the_diversity-wingfuzz/index.md)
+- [4.7 &ndash; Transferring the Diversity: WingFuzz (plotted with saturation period)](./artifacts/coverage-plots/transferring_the_diversity-wingfuzz_with_saturation_period/index.md)
+- [4.9 &ndash; Ablation Study](./artifacts/coverage-plots/ablation_study/index.md)
 - [Starting "from Scratch" (from a Non-Saturated Corpus)](./artifacts/coverage-plots/from_scratch/index.md)
 
 

@@ -1,4 +1,4 @@
-# Transferring the Diversity: WingFuzz (including Saturation Period)
+# 4.7 &ndash; Transferring the Diversity: WingFuzz (including Saturation Period)
 Median of 10 trials starting from the corpus saturated by both LibAFL and libFuzzer, plots include 95% confidence interval.
 
 The combined coverage of both libFuzzer and LibAFL is shown dashed. After the vertical line StorFuzz/LibAFL and WingFuzz/libFuzzer are run for 96 hours, starting with the merged corpora.

@@ -1,4 +1,4 @@
-# Transferring the Diversity: WingFuzz
+# 4.7 &ndash; Transferring the Diversity: WingFuzz
 Median of 10 trials starting from the corpus saturated by both LibAFL and libFuzzer, plots include 95% confidence interval.
 
  - StorFuzz/LibAFL ![#d62728](../.assets/d62728.png)

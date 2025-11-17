@@ -1,4 +1,4 @@
-# Transferring the Diversity: LibAFL
+# 4.6 &ndash; Transferring the Diversity: LibAFL
 Median of 10 trials starting from the saturated corpus, plots include 95% confidence interval. The restarting/switching configurations restarted/switched at times indicated by the grey vertical lines. 
 
  - Continous LibAFL ![#98df8a](../.assets/98df8a.png)

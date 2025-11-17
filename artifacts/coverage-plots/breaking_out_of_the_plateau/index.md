@@ -1,4 +1,4 @@
-# Breaking out of the Plateau
+# 4.4 &ndash; Breaking out of the Plateau
 Median of 10 trials starting from the saturated corpus, plots include 95% confidence interval.
 
  - LibAFL ![#979797](../.assets/979797.png)

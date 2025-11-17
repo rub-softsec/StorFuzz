@@ -1,4 +1,4 @@
-# Getting to the Plateau
+# 4.3 &ndash; Getting to the Plateau
 Median of 5 trials with LibAFL starting from the OSS-Fuzz corpus. Also includes 95% confidence interval.
 
 ## bloaty_fuzz_target
