@@ -7,7 +7,6 @@
   author    = {Weiß, Leon and Holl, Tobias and Borgolte, Kevin},
   booktitle = {Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)},
   date      = {2026-04},
-  edition   = {48},
   editor    = {Mezini, Mira and Zimmermann, Thomas},
   location  = {Rio de Janeiro, Brazil},
   publisher = {Association for Computing Machinery (ACM)/Institute of Electrical and Electronics Engineers (IEEE)},
