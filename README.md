@@ -33,11 +33,11 @@ The repository includes information on how to replicate the experiments presente
 
 ### LibAFL fuzzbench fuzzer patch
 The fuzzbench fuzzer for LibAFL is based on revision [bb579e6](https://github.com/AFLplusplus/LibAFL/commit/bb579e624e907b6488f019a6f0bb0634aa0f81da). 
-The patch applied to the fuzzer can be found in [fuzzbench_stats.patch](./fuzzbench/fuzzers/libafl_stats/fuzzbench_stats.patch) 
+The patch applied to the fuzzer can be found in [fuzzbench_stats.patch](https://github.com/rub-softsec/StorFuzz-fuzzbench/blob/master/fuzzers/libafl_stats/fuzzbench_stats.patch) 
 
 ### DDFuzz Fuzzer Implementation
 The DDFuzz fuzzer for LibAFL is implemented on top of revision [bb579e6](https://github.com/AFLplusplus/LibAFL/commit/bb579e624e907b6488f019a6f0bb0634aa0f81da).
-The patch file can be found in [ddfuzz_fuzzer.patch](./fuzzbench/fuzzers/ddfuzz_libafl/ddfuzz_fuzzer.patch) 
+The patch file can be found in [ddfuzz_fuzzer.patch](https://github.com/rub-softsec/StorFuzz-fuzzbench/blob/master/fuzzers/ddfuzz_libafl/ddfuzz_fuzzer.patch) 
 
 
 ### Ablation Study
