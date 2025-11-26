@@ -1,5 +1,7 @@
 # StorFuzz
 
+This repository contains code and data accompanying our paper *StorFuzz: Using Data Diversity to Overcome Fuzzing Plateaus* ([PDF](./StorFuzz.pdf)).
+
 ## How to Cite
 ```biblatex
 @inproceedings{icse2026-storfuzz,
