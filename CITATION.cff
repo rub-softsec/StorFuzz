@@ -48,13 +48,12 @@ preferred-citation:
   title: "StorFuzz: Using Data Diversity to Overcome Fuzzing Plateaus"
   type: conference-paper
   doi: 10.1145/3744916.3773179
-  date-published: "2026-04"
   collection-title: "Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)"
   collection-type: "proceedings"
   conference:
     name: "48th IEEE/ACM International Conference on Software Engineering (ICSE)"
     city: "Rio de Janeiro"
-    country: "Brazil"
+    country: "BR"
     date-start: "2026-04-12"
     date-end: "2026-04-18"
   publisher:
