@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: "If you use data/software from this repository, please cite both the article from preferred-citation and the repository itself."
+authors:
+- family-names: "Weiß"
+  given-names: "Leon"
+  affiliation: "Ruhr University Bochum"
+  city: "Bochum"
+  country: DE
+  orcid: "https://orcid.org/0009-0005-4540-9058"
+- family-names: "Holl"
+  given-names: "Tobias"
+  affiliation: "Ruhr University Bochum"
+  city: "Bochum"
+  country: DE
+  orcid: "https://orcid.org/0000-0003-3597-6890"
+- family-names: "Borgolte"
+  given-names: "Kevin"
+  affiliation: "Ruhr University Bochum"
+  city: "Bochum"
+  country: DE
+  orcid: "https://orcid.org/0000-0001-7427-7852"
+title: "StorFuzz"
+url: "https://github.com/rub-softsec/StorFuzz"
+identifiers:
+- type: swh
+  value: 'swh:1:dir:079c95555eb365c8185cbbd754426e0e78755111'
+license: Apache-2.0
+preferred-citation:
+  authors:
+  - family-names: "Weiß"
+    given-names: "Leon"
+    affiliation: "Ruhr University Bochum"
+    city: "Bochum"
+    country: DE
+    orcid: "https://orcid.org/0009-0005-4540-9058"
+  - family-names: "Holl"
+    given-names: "Tobias"
+    affiliation: "Ruhr University Bochum"
+    city: "Bochum"
+    country: DE
+    orcid: "https://orcid.org/0000-0003-3597-6890"
+  - family-names: "Borgolte"
+    given-names: "Kevin"
+    affiliation: "Ruhr University Bochum"
+    city: "Bochum"
+    country: DE
+    orcid: "https://orcid.org/0000-0001-7427-7852"
+  title: "StorFuzz: Using Data Diversity to Overcome Fuzzing Plateaus"
+  type: conference-paper
+  doi: 10.1145/3744916.3773179
+  date-published: "2026-04"
+  collection-title: "Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)"
+  collection-type: "proceedings"
+  conference:
+    name: "48th IEEE/ACM International Conference on Software Engineering (ICSE)"
+    city: "Rio de Janeiro"
+    country: "Brazil"
+    date-start: "2026-04-12"
+    date-end: "2026-04-18"
+  publisher:
+    name: "Association for Computing Machinery (ACM)/Institute of Electrical and Electronics Engineers (IEEE)"
+  editors-series:
+  - family-names: "Mezini"
+    given-names: "Mira"
+  - family-names: "Zimmermann"
+    given-names: "Thomas"
